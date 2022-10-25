@@ -1,0 +1,9 @@
+/notebooks/
+/Trajectories_for_Kunal/
+.DS_Store
+Manifest.toml
+/experiment_example/trajectory_files
+src/.ipynb_checkpoints/*
+/Lucas_dev/
+ipynb_checkpoints
+.vscode
