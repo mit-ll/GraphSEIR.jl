@@ -2,7 +2,7 @@
 
 GraphSEIR is a network-based disease simulation model. This model takes as input a graph or network instance that captures contact patterns in a population. The model then uses an agent-based model called SEIR (Susceptible, Exposed, Infected, Recovered) that describes how disease spreads across this graph topology to produce simulated infection statistics.
 
-This is a Julia package and requires a local installation of [Julia](https://julialang.org). Documentation for this tool can be found [here](https://github.mit.edu/pages/graph-control/GraphSEIR.jl/build/).
+This is a Julia package and requires a local installation of [Julia](https://julialang.org). Documentation for this tool can be found [here](https://mit-ll.github.io/GraphSEIR.jl/build/).
 
 ## Global Packages
 GraphSEIR makes use of "Plots" and "PyPlot" - please add those to your default Julia environment via Pkg before importing GraphSEIR or running the scripts.
